@@ -1,0 +1,21 @@
+{
+  "projectId": "72438201",
+  "functions": {
+    "admin-api": {
+      "hasChanged": false,
+      "hash": "d557f584e326c4d8eb0802d40fcf7bb1f63ab875244928edec6a136af9c4154e"
+    },
+    "ai-examiner": {
+      "hasChanged": false,
+      "hash": "1da922cf7baf6bd0fb86a0ef990e875e0a4369e0612e2fdc767058838b64613f"
+    },
+    "register-workshop": {
+      "hasChanged": false,
+      "hash": "636e9b5b733f35c35f2ae9daba7a8a69b0fb19f685728fd5f49eb4cdffcc843d"
+    },
+    "resend-webhook": {
+      "hasChanged": false,
+      "hash": "ec1a8c11393c0f8f9cba0315514c2362f0e8eb0a08b22135468e5be88f374675"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+[functions.ai-examiner]
+verify_jwt = false
+entrypoint = "./functions/ai-examiner/index.ts"
+
+[functions.register-workshop]
+verify_jwt = false
+entrypoint = "./functions/register-workshop/index.ts"
+
+[functions.admin-api]
+verify_jwt = true
+entrypoint = "./functions/admin-api/index.ts"
+
+[functions.resend-webhook]
+verify_jwt = false
+entrypoint = "./functions/resend-webhook/index.ts"
+
+[functions.track-event]
+verify_jwt = false
+entrypoint = "./functions/track-event/index.ts"
+
+[functions.registration-status]
+verify_jwt = false
+entrypoint = "./functions/registration-status/index.ts"
